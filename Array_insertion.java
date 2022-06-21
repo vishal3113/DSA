@@ -5,7 +5,7 @@
 // Insertion of an Array
 import java.util.*;
 
-public class Array2 {
+public class Array_insertion {
     public static void main(String args[])
     {
         int n,s,v;
