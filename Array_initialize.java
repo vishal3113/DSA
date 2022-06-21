@@ -4,7 +4,7 @@
 // There are two types in which we declare our variable in array;
 import java.util.*;
 
-public class Array1{
+public class Array_initialize{
     public static void main(String args[])
     {
         // initialization of the n var;

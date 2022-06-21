@@ -3,7 +3,7 @@
 // .
 import java.util.*;
 
-public class Array3 {
+public class Array_Deletion {
     public static void main(String args[])
     {
         int n,s,v;
