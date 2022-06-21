@@ -1,0 +1,12 @@
+                                            ADVANTAGES OF ARRAY:-
+
+1> Allow continuos memory allocation. 
+2> Access Time T(n)=O(n).
+3> Can store multiple data of same type using single variable.
+
+                                           DIS-ADVANTAGE OF ARRAY:-
+
+1>. Insertion at time complexity T(n)=O(n).
+2>. Deletion time complexity T(n)=O(n).
+3>. Size of array should be known in advance.
+4>. Wastage of memory if data is stored as per the size declared. 
