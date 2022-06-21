@@ -1,5 +1,8 @@
 // Insertion of an element into a new array in which the new array have similar elements to the old array.
 // Time Complexity->
+// .
+// .
+// Insertion of an Array
 import java.util.*;
 
 public class Array2 {
